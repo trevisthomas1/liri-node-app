@@ -348,4 +348,28 @@ Artist: Childish Gambino
 Song name: This Is America
 Album Name: This Is America
 Preview Link: https://p.scdn.co/mp3-preview/01afc9c7c44d7b4b01d2340a00e586031827b243?cid=0a11dce5bdf9428cbd33b06b7ff4d5c5
+[object Object]Artist: Train
+Song name: Drops of Jupiter
+Album Name: Drops Of Jupiter
+Preview Link: https://p.scdn.co/mp3-preview/dd63090aa1fc20e712ec34f0240d25557101ba79?cid=0a11dce5bdf9428cbd33b06b7ff4d5c5
+[object Object][object Object]Artist: Ben Platt
+Song name: Waving Through A Window
+Album Name: Dear Evan Hansen (Original Broadway Cast Recording)
+Preview Link: https://p.scdn.co/mp3-preview/86788fe59313533b5ce4050ab8e6625764f5710e?cid=0a11dce5bdf9428cbd33b06b7ff4d5c5
+Artist: Calvin Harris
+Song name: One Kiss (with Dua Lipa)
+Album Name: One Kiss (with Dua Lipa)
+Preview Link: https://p.scdn.co/mp3-preview/34b3b95afb8e1d34363f01b194b4a729100d3710?cid=0a11dce5bdf9428cbd33b06b7ff4d5c5
+[object Object]Artist: Morgan Wallen
+Song name: Up Down (feat. Florida Georgia Line)
+Album Name: If I Know Me
+Preview Link: null
+[object Object]Artist: Ben Platt
+Song name: If I Could Tell Her
+Album Name: Dear Evan Hansen (Original Broadway Cast Recording)
+Preview Link: https://p.scdn.co/mp3-preview/266167582431f8fc637d38f74d01c4c25f495515?cid=0a11dce5bdf9428cbd33b06b7ff4d5c5
+[object Object]Artist: Ben Platt
+Song name: Waving Through A Window
+Album Name: Dear Evan Hansen (Original Broadway Cast Recording)
+Preview Link: https://p.scdn.co/mp3-preview/86788fe59313533b5ce4050ab8e6625764f5710e?cid=0a11dce5bdf9428cbd33b06b7ff4d5c5
 [object Object]

@@ -8,7 +8,7 @@ var twitter = require("twitter");
 var Spotify = require("node-spotify-api");
 
 var liriCommand = process.argv[2];
-var input = process.argv[3];
+var input = process.argv.slice(3).join(" ");
 
 function commands(liriCommand, input) {
     switch (liriCommand) {
